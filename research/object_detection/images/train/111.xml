@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Car Data set real</folder>
+	<filename>111.png</filename>
+	<path>/Users/boy-/Desktop/Car Data set real/111.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>6</ymin>
+			<xmax>476</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>624</xmin>
+			<ymin>131</ymin>
+			<xmax>670</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>
